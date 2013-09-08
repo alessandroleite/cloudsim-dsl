@@ -1,0 +1,10 @@
+# eclipse file
+.classpath
+.project
+.settings/
+.checkstyle
+
+#Binary files
+target/
+
+.DS_STORE
